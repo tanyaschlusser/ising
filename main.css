@@ -1,6 +1,6 @@
 section {
-  max-width: 600px;
-  min-width: 300px;
+  max-width: 400px;
+  min-width: 200px;
   margin: 5% auto;
   display: flex;
   flex-wrap: wrap;
@@ -8,7 +8,7 @@ section {
 }
 
 img {
-  width: 128px;
-  height: 128px;
-  margin: 10px; 
+  width: 84px;
+  height: 84px;
+  margin: 8px; 
 }
