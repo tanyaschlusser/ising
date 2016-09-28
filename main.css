@@ -1,12 +1,14 @@
 section {
-  width: 90%;
-  margin: 0 auto;
+  max-width: 600px;
+  min-width: 300px;
+  margin: 5% auto;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
 }
 
 img {
-  width: 22%;
-  height: auto;
+  width: 128px;
+  height: 128px;
+  margin: 10px; 
 }
